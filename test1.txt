@@ -10,3 +10,4 @@ branch test1 change
 branch master change1
 branch test1 change2
 test git&github push
+test github&git pull
