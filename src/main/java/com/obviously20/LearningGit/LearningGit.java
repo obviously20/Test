@@ -10,6 +10,7 @@ public class LearningGit {
         System.out.println("push github2");
         System.out.println("pull to local");
         System.out.println("push githubTest");
+        System.out.println("push githubTest2");
     }
 }
 
