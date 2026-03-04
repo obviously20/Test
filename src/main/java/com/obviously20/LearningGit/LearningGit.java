@@ -12,6 +12,7 @@ public class LearningGit {
         System.out.println("push githubTest");
         System.out.println("push githubTest2");
         System.out.println("pull githubTest");
+        System.out.println("pull giteeTest");
     }
 }
 
