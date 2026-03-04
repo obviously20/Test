@@ -11,3 +11,4 @@ branch master change1
 branch test1 change2
 test git&github push
 test github&git pull
+团队2改了团队1的代码->new pull request->wait access
