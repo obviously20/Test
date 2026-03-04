@@ -9,6 +9,7 @@ public class LearningGit {
         System.out.println("hello git4 -- hot-fix change2");
         System.out.println("push github2");
         System.out.println("pull to local");
+        System.out.println("push githubTest");
     }
 }
 
